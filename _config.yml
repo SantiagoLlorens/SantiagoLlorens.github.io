@@ -21,7 +21,7 @@ repository               : "santiagollorens/santiagollorens.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/ceqip2024foto16.jpg"
+  avatar           : "ceqip2024foto16.jpg"
   name             : "Santiago Llorens"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
