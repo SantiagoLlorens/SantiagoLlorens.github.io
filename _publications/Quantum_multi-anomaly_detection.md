@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Quantum multi-anomaly detection"
 collection: publications
 permalink: /publication/Quantum_multi-anomaly_detection
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
