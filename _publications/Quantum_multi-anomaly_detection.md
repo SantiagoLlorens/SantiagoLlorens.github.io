@@ -2,12 +2,12 @@
 title: "Quantum multi-anomaly detection"
 collection: publications
 permalink: /publication/Quantum_multi-anomaly_detection
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
+excerpt: 'A source assumed to prepare a specified reference state sometimes prepares an anomalous one. We address the task of identifying these anomalous states in a series of n preparations with k anomalies. We analyse the minimum-error protocol and the zero-error (unambiguous) protocol and obtain closed expressions for the success probability when both reference and anomalous states are known to the observer and anomalies can appear equally likely in any position of the preparation series. We find the solution using results from association schemes theory. In particular we use the Johnson association scheme which arises naturally from the Gram matrix of this problem. We also study the regime of large n and obtain the expression of the success probability that is non-vanishing. Finally, we address the case in which the observer is blind to the reference and the anomalous states. This scenario requires an universal protocol for which we prove that in the asymptotic limit the success probability correspond to average of the known state scenario.'
+date: 2020-12-20
+venue: 'arXiv'
+slidesurl: 'https://arxiv.org/abs/2312.13020'
 paperurl: 'http://santiagollorens.github.io/files/Quantum_multi-anomaly_detection.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Llorens, Santiago, Gael Sentís, and Ramon Muñoz-Tapia. "Quantum multi-anomaly detection." arXiv:2312.13020 (2023).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+A source assumed to prepare a specified reference state sometimes prepares an anomalous one. We address the task of identifying these anomalous states in a series of n preparations with k anomalies. We analyse the minimum-error protocol and the zero-error (unambiguous) protocol and obtain closed expressions for the success probability when both reference and anomalous states are known to the observer and anomalies can appear equally likely in any position of the preparation series. We find the solution using results from association schemes theory. In particular we use the Johnson association scheme which arises naturally from the Gram matrix of this problem. We also study the regime of large n and obtain the expression of the success probability that is non-vanishing. Finally, we address the case in which the observer is blind to the reference and the anomalous states. This scenario requires an universal protocol for which we prove that in the asymptotic limit the success probability correspond to average of the known state scenario.
