@@ -1,5 +1,5 @@
 ---
-title: "aaaaaExploring Imaginary Coordinates: Disparity in the Shape of Quantum State Space in Even and Odd Dimensions"
+title: "Exploring Imaginary Coordinates: Disparity in the Shape of Quantum State Space in Even and Odd Dimensions"
 collection: publications
 permalink: /publication/Exploring_Imaginary_Coordinates_Disparity_in_the_Shape_of_Quantum_State_Space_in_Even_and_Odd_Dimensions
 excerpt: ''
