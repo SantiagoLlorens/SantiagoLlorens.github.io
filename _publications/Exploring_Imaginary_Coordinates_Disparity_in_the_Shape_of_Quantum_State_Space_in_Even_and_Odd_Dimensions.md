@@ -5,7 +5,7 @@ permalink: /publication/Exploring_Imaginary_Coordinates_Disparity_in_the_Shape_o
 excerpt: ''
 date: 2024-04-23
 venue: 'arXiv'
-slidesurl: #'https://arxiv.org/abs/2312.13020'
+#slidesurl: #'https://arxiv.org/abs/2312.13020'
 paperurl: 'https://arxiv.org/abs/2404.15179'
 citation: 'Morelli, S., Llorens, S., & Siewert, J. (2024). Exploring Imaginary Coordinates: Disparity in the Shape of Quantum State Space in Even and Odd Dimensions. arXiv preprint arXiv:2404.15179.'
 ---
