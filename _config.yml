@@ -24,7 +24,7 @@ author:
   avatar           : "ceqip2024foto16.jpg"
   name             : "Santiago Llorens"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Barcelona"
   employer         : "GIQ|UAB"
   uri              : # URL
