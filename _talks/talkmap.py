@@ -18,7 +18,7 @@ from geopy import Nominatim
 g = glob.glob("*.md")
 
 
-geocoder = Nominatim(user_agent="yagollorensf@gmail.com")
+geocoder = Nominatim(user_agent="@gmail.com")
 location_dict = {}
 location = ""
 permalink = ""
