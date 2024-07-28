@@ -571,4 +571,5 @@ border-radius: .1em;
 }
 .archive__item-title {
   font-size: 18px; /* Adjust this value as needed */
+  text-decoration: none;
 }
