@@ -1,5 +1,5 @@
 ---
-title: "Quantum multi-anomaly detection"
+title: "Quantumm multi-anomaly detection"
 collection: talks
 type: "Contributed talk"
 permalink: /talks/CEQIP_2024
