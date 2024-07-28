@@ -16,22 +16,31 @@ Education
 * B.Sc. in Physics, Autonomous University of Barcelona, 2015-2020
 * B.Sc. in Chemistry, Autonomous University of Barcelona, 2015-2020
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022-2026 (expected) Ph.D Student
+  * Quantum Information Group (GIQ), Autonomous University of Barcelona
+  * New techniques for verification and identification of quantum states and processes
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-2021 M.Sc. Thesis Student
+  * Physics Department, Basque Country University
+  * Bloch Representation on Finite-Dimensional Composite Systems
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2020 B.Sc. Thesis Student
+  * Quantum Information Group (GIQ), Autonomous University of Barcelona
+  * Implementation of SPRT in quantum state discrimination
+
+* 2019-2020: B.Sc. Thesis Student
+  * Physical Chemistry Department, University of Seville
+  * Theoretical insight into the PUREX method mechanism
+
+* July 2019: Visiting Student
+  * Physical Chemistry Department, University of Seville
+  * _ab initio_ simulations on uranyl, neptunyl and plutonyl extractions in the PUREX method
+
+* July 2018: Visiting Student
+  * Physical Chemistry Department, University of Seville
+  * _ab initio_ simulations on aqueous electrolyte solutions
   
 Skills
 ======
