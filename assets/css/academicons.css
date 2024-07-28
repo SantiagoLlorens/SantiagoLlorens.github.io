@@ -569,3 +569,6 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+.archive__item-title {
+  font-size: 18px; /* Adjust this value as needed */
+}
