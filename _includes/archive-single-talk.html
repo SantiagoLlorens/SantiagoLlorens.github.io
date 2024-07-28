@@ -12,22 +12,6 @@
   {% assign title = post.title %}
 {% endif %}
 
-<style>
-  /* Reduce the margin at the bottom of each archive item */
-  .archive__item {
-    margin-bottom: 1000px; /* Adjust this value as needed */
-  }
-
-  /* Ensure no extra space after the last item */
-  .archive__item:last-child {
-    margin-bottom: 0;
-  }
-
-  /* Additional adjustments for inner elements if needed */
-  .archive__item h4 {
-    margin-bottom: 5px; /* Adjust this value as needed */
-  }
-</style>
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
