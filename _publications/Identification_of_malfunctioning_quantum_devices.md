@@ -1,5 +1,5 @@
 ---
-title: "Identificationn of malfunctioning quantum devices"
+title: "Identification of malfunctioning quantum devices"
 collection: publications
 permalink: /publication/Identification_of_malfunctioning_quantum_devices
 excerpt: ''
