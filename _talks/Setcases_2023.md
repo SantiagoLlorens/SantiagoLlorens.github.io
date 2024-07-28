@@ -6,7 +6,7 @@ permalink: /talks/Setcases_2023
 venue: "VI Pyrenees Winter School in Quantum Information"
 date: 2023-02-16
 location: "Sectases, Spain"
-excerpt: ""
+excerpt: "Que"
 ---
 
 <!-- [More information here](http://example2.com) -->
