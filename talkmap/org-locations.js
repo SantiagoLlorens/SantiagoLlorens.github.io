@@ -13,7 +13,7 @@ var addressPoints = [
     "Granada, Spain",
     37.1734995,
     -3.5995337
-  ]
+  ],
   [
     "Setcases, Spain",
     42.37575590180706,
