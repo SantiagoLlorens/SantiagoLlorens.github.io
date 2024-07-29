@@ -25,7 +25,7 @@ redirect_from:
 	<div style="width: 210px; height: 100px; border: 3px solid rgba(0, 0, 0, 0.5); border-radius: 50%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
       <img src="https://santiagollorens.github.io/images/UPV_logo.jpg" 
            alt="UPV Logo" 
-           style="width: 80%; height: 80%; object-fit: cover; transform: scale(0.8);">
+           style="width: 90%; height: 90%; object-fit: cover; transform: scale(0.8);">
   </div>
 </div></div>
 
