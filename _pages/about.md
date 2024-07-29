@@ -9,7 +9,7 @@ redirect_from:
 
 I am Santiago Llorens, a Ph.D. student at [Grup d'Informació i Fenòmens Quàntics](https://webs.uab.cat/giq/) (Autonomous University of Barcelona) under the supervision of Prof. [Ramon Muñoz Tapia](https://scholar.google.es/citations?user=SGxT9bkAAAAJ&hl=en&oi=ao) and Dr. [Gael Sentís Herrera](https://scholar.google.es/citations?user=ai_4KiEAAAAJ&hl=en). Previously I completed a double major in physics and chemistry at the Autonomous University of Barcelona and a master’s in quantum science and technology at the Basque Country University, Bilbao, under the supervision of Prof. [Jens Siewert](https://scholar.google.es/citations?hl=en&user=ryYiAcwAAAAJ). 
 
-A data-driven personal website
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
