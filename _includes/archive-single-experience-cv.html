@@ -26,24 +26,14 @@
           alt="">
       </div>
     {% endif %}
-    <h3 itemprop="headline">
-      {% if post.expected %}
-      <a style="text-decoration: none; display: inline-block;" href="{{ post.url }}">{{ post.title }}</a>
+    <h3 class="archive__item-title" itemprop="headline">
+      <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
       <p class="page__meta" style="display: inline-block; margin: 0;">
         <i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}
       </p>
       <p class="page__meta" style="display: inline-block; margin: 0;">
-        <i class="fa fa-clock-o" aria-hidden="true"></i> - {{ post.date2 | date: '%B %d, %Y' }} (expected)
+        <i class="fa fa-clock-o" aria-hidden="true"></i> - {{ post.date2 | date: '%B %d, %Y' }}{% if post.expected %} (expected){% endif %}
       </p>
-      {% else %}
-      <a style="text-decoration: none; display: inline-block;" href="{{ post.url }}">{{ post.title }}</a>
-      <p class="page__meta" style="display: inline-block; margin: 0;">
-        <i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}
-      </p>
-      <p class="page__meta" style="display: inline-block; margin: 0;">
-        <i class="fa fa-clock-o" aria-hidden="true"></i> - {{ post.date2 | date: '%B %d, %Y' }}
-      </p>
-      {% endif %}
     </h3>
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.venue }}</p> {% endif %}
     </li>
