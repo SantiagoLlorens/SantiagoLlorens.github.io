@@ -10,5 +10,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  {% include archive-single-teaching-cv.html %}
+  {% include archive-single-talk-teaching.html %}
 {% endfor %}
