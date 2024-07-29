@@ -34,7 +34,7 @@ Research experience
   * Physical Chemistry Department, University of Seville
   * Theoretical insight into the PUREX method mechanism
 
-* <a style="text-dectoration: none;"> July 2019: Visiting Student</a>
+* <a style="text-dectoration: none!important;"> July 2019: Visiting Student</a>
   * Physical Chemistry Department, University of Seville
   * _ab initio_ simulations on uranyl, neptunyl and plutonyl extractions in the PUREX method
 
