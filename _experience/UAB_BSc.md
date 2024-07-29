@@ -1,5 +1,5 @@
 ---
-title: "Bachelor's thesis student (Physics)"
+title: "Bachelor's thesis student (Physics: Quantum Information)"
 collection: experience
 permalink: /experience/UAB_BSc
 date: 2019-09-01
