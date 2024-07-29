@@ -23,8 +23,8 @@ Research experience
   {% endfor %}</ul>
 
 
-Research experience
-======
+[comment]:Research experience
+[comment]:======
 [comment]:* 2022-2026 (expected) Ph.D Student
 [comment]:  * Quantum Information Group (GIQ), Autonomous University of Barcelona
 [comment]:  * New techniques for verification and identification of quantum states and processes
