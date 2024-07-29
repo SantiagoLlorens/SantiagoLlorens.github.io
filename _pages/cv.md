@@ -18,6 +18,13 @@ Education
 
 Research experience
 ======
+  <ul>{% for post in site.experience reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+
+Research experience
+======
 * 2022-2026 (expected) Ph.D Student
   * Quantum Information Group (GIQ), Autonomous University of Barcelona
   * New techniques for verification and identification of quantum states and processes
