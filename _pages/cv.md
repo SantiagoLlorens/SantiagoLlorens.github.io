@@ -18,8 +18,8 @@ redirect_from:
 <div class="text-center">
 <div class="row">
 
-	<img  class="img-circle" src="https://adrianxsalazar.github.io/images/UAB_logo.jpg">
-	<img class="img-circle" src="https://adrianxsalazar.github.io/images/UPV_logo.jpg">
+	<img  class="img-circle" src="https://santiagollorens.github.io/images/UAB_logo.jpg">
+	<img class="img-circle" src="https://santiagollorens.github.io/images/UPV_logo.jpg">
 
 </div></div>
 
