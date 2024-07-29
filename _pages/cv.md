@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * Ph.D in Physics: Quantum Information, Quantum Information Group @ Autonomous University of Barcelona, 2022-2026 (expected)
 * M.Sc. in Quantum Science and Technology, Basque Country University, 2020-2021
