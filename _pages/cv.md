@@ -19,7 +19,7 @@ Education
 Research experience
 ======
   <ul>{% for post in site.experience reversed %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-experience-cv.html %}
   {% endfor %}</ul>
 
 
