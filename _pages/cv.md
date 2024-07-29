@@ -42,14 +42,14 @@ Research experience
   * Physical Chemistry Department, University of Seville
   * _ab initio_ simulations on aqueous electrolyte solutions
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+[comment]: <> Skills
+[comment]: <> ======
+[comment]: <> * Skill 1
+[comment]: <> * Skill 2
+[comment]: <>   * Sub-skill 2.1
+[comment]: <>   * Sub-skill 2.2
+[comment]: <>   * Sub-skill 2.3
+[comment]: <> * Skill 3
 
 Publications
 ======
