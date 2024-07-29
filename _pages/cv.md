@@ -22,23 +22,23 @@ Research experience
   * Quantum Information Group (GIQ), Autonomous University of Barcelona
   * New techniques for verification and identification of quantum states and processes
 
-* 2020-2021 M.Sc. Thesis Student
+*  <a style="text-dectoration: none">2020-2021 M.Sc. Thesis Student</a>
   * Physics Department, Basque Country University
   * Bloch Representation on Finite-Dimensional Composite Systems
 
-* 2019-2020 B.Sc. Thesis Student
+*  <a style="text-dectoration: none">2019-2020 B.Sc. Thesis Student</a>
   * Quantum Information Group (GIQ), Autonomous University of Barcelona
   * Implementation of SPRT in quantum state discrimination
 
-* 2019-2020: B.Sc. Thesis Student
+*  <a style="text-dectoration: none">2019-2020: B.Sc. Thesis Student</a>
   * Physical Chemistry Department, University of Seville
   * Theoretical insight into the PUREX method mechanism
 
-* July 2019: Visiting Student
+*  <a style="text-dectoration: none">July 2019: Visiting Student</a>
   * Physical Chemistry Department, University of Seville
   * _ab initio_ simulations on uranyl, neptunyl and plutonyl extractions in the PUREX method
 
-* July 2018: Visiting Student
+*  <a style="text-dectoration: none">July 2018: Visiting Student</a>
   * Physical Chemistry Department, University of Seville
   * _ab initio_ simulations on aqueous electrolyte solutions
   
