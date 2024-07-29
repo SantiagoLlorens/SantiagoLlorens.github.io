@@ -18,7 +18,7 @@ redirect_from:
 <div class="text-center">
 <div class="row">
 
-	<img  class="img-circle" src="https://santiagollorens.github.io/images/UAB_logo.jpg" style="width: 210px; height: 100px; border: 5px solid #000; border-radius: 50%;">
+	<img  class="img-circle" src="https://santiagollorens.github.io/images/UAB_logo.jpg" style="width: 210px; height: 100px; border: 3px solid rgba(0, 0, 0, 0.5); border-radius: 50%;"">
 	<img class="img-circle" src="https://santiagollorens.github.io/images/UPV_logo.jpg" style="width: 210px; height: 100px;">
 
 </div></div>
