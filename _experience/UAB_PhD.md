@@ -1,5 +1,5 @@
 ---
-title: "Ph.D. Student"
+title: "Ph.D. Student (Quantum Information)"
 collection: experience
 permalink: /experience/UAB_PhD
 date: 2022-03-01
