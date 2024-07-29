@@ -15,20 +15,20 @@ redirect_from:
 * B.Sc. in Physics, Autonomous University of Barcelona, 2015-2020
 * B.Sc. in Chemistry, Autonomous University of Barcelona, 2015-2020
 
-<div class="text-center">
-<div class="row">
-  <div style="width: 210px; height: 100px; border: 3px solid rgba(0, 0, 0, 0.5); border-radius: 50%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+<div class="text-center" style="text-align: center;">
+  <div class="row" style="display: flex; justify-content: center; gap: 10px;">
+    <div style="width: 210px; height: 100px; border: 3px solid rgba(0, 0, 0, 0.5); border-radius: 50%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
       <img src="https://santiagollorens.github.io/images/UAB_logo.jpg" 
            alt="UAB Logo" 
            style="width: 120%; height: 120%; object-fit: cover; transform: scale(0.8);">
-  </div>
-	<div style="width: 210px; height: 100px; border: 3px solid rgba(0, 0, 0, 0.5); border-radius: 50%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+    </div>
+    <div style="width: 210px; height: 100px; border: 3px solid rgba(0, 0, 0, 0.5); border-radius: 50%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
       <img src="https://santiagollorens.github.io/images/UPV_logo.jpg" 
            alt="UPV Logo" 
            style="width: 90%; height: 90%; object-fit: cover; transform: scale(0.8);">
+    </div>
   </div>
-</div></div>
-
+</div>
 ## Research experience
   <ul>{% for post in site.experience reversed %}
     {% include archive-single-experience-cv.html %}
