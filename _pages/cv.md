@@ -25,29 +25,29 @@ Research experience
 
 Research experience
 ======
-* 2022-2026 (expected) Ph.D Student
-  * Quantum Information Group (GIQ), Autonomous University of Barcelona
-  * New techniques for verification and identification of quantum states and processes
+[comment]:* 2022-2026 (expected) Ph.D Student
+[comment]:  * Quantum Information Group (GIQ), Autonomous University of Barcelona
+[comment]:  * New techniques for verification and identification of quantum states and processes
 
-* 2020-2021 M.Sc. Thesis Student
-  * Physics Department, Basque Country University
-  * Bloch Representation on Finite-Dimensional Composite Systems
+[comment]:* 2020-2021 M.Sc. Thesis Student
+[comment]:  * Physics Department, Basque Country University
+[comment]:  * Bloch Representation on Finite-Dimensional Composite Systems
 
-* 2019-2020 B.Sc. Thesis Student
-  * Quantum Information Group (GIQ), Autonomous University of Barcelona
-  * Implementation of SPRT in quantum state discrimination
+[comment]:* 2019-2020 B.Sc. Thesis Student
+[comment]:  * Quantum Information Group (GIQ), Autonomous University of Barcelona
+[comment]:  * Implementation of SPRT in quantum state discrimination
 
-* 2019-2020: B.Sc. Thesis Student
-  * Physical Chemistry Department, University of Seville
-  * Theoretical insight into the PUREX method mechanism
+[comment]:* 2019-2020: B.Sc. Thesis Student
+[comment]:  * Physical Chemistry Department, University of Seville
+[comment]:  * Theoretical insight into the PUREX method mechanism
 
-* July 2019: Visiting Student
-  * Physical Chemistry Department, University of Seville
-  * _ab initio_ simulations on uranyl, neptunyl and plutonyl extractions in the PUREX method
+[comment]:* July 2019: Visiting Student
+[comment]:  * Physical Chemistry Department, University of Seville
+[comment]:  * _ab initio_ simulations on uranyl, neptunyl and plutonyl extractions in the PUREX method
 
-* July 2018: Visiting Students
-  * Physical Chemistry Department, University of Seville
-  * _ab initio_ simulations on aqueous electrolyte solutions
+[comment]:* July 2018: Visiting Students
+[comment]:  * Physical Chemistry Department, University of Seville
+[comment]:  * _ab initio_ simulations on aqueous electrolyte solutions
   
 [comment]: <> Skills
 [comment]: <> ======
