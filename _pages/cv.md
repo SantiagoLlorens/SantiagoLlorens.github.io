@@ -15,6 +15,14 @@ redirect_from:
 * B.Sc. in Physics, Autonomous University of Barcelona, 2015-2020
 * B.Sc. in Chemistry, Autonomous University of Barcelona, 2015-2020
 
+<div class="text-center">
+<div class="row">
+
+	<img  class="img-circle" src="https://adrianxsalazar.github.io/images/UAB_logo.jpg">
+	<img class="img-circle" src="https://adrianxsalazar.github.io/images/UPV_logo.jpg">
+
+</div></div>
+
 ## Research experience
   <ul>{% for post in site.experience reversed %}
     {% include archive-single-experience-cv.html %}
