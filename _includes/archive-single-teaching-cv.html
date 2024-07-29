@@ -37,6 +37,9 @@
       <p class="page__meta" style="display: inline-block; margin: 0;">
         <i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B, %Y' }}
       </p>
+      <p class="page__meta" style="display: inline-block; margin: 0;">
+        <i class="fa fa-clock-o" aria-hidden="true"></i> - {{ post.date | date2: '%B, %Y' }}
+      </p>
       {% endif %}
     </h3>
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.venue }}</p> {% endif %}
