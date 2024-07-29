@@ -32,10 +32,10 @@
       {% else %}
       <a style="text-decoration: none; display: inline-block; margin: 0;" >{{ post.title }}</a>
       <p class="page__meta" style="display: inline-block; margin: 0;">
-        <i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}
+        <i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B, %Y' }}
       </p>
       <p class="page__meta" style="display: inline-block; margin: 0;">
-        <i class="fa fa-clock-o" aria-hidden="true"></i> - {{ post.date2 | date: '%B %d, %Y' }}
+        <i class="fa fa-clock-o" aria-hidden="true"></i> - {{ post.date2 | date: '%B, %Y' }}
       </p>
       {% endif %}
     </h3>
