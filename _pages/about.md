@@ -14,14 +14,14 @@ I am Santiago Llorens, a Ph.D. student at [Grup d'Informació i Fenòmens Quànt
 Tenis
 
 <div class="row" style="display: flex; justify-content: center;">
-    <a style="align-items: center; justify-content: center; margin-right: 60px;">
+    <a style="align-items: center; justify-content: center; margin-right: 20px;">
       <img src="https://santiagollorens.github.io/images/Tenis_Yago_1.jpg" 
            alt="UAB Logo" 
-           style="height: 200px; object-fit: cover; transform: scale(0.8);">
+           style="height: 300px; object-fit: cover; transform: scale(0.8);">
     </a>
-    <a style="align-items: center; justify-content: center; margin-right: 60px;">
+    <a style="align-items: center; justify-content: center; margin-right: 20px;">
       <img src="https://santiagollorens.github.io/images/Tenis_Yago_2.jpg" 
            alt="UPV Logo" 
-           style="height: 200px; object-fit: cover; transform: scale(0.8);">
+           style="height: 300px; object-fit: cover; transform: scale(0.8);">
     </a>
 </div>
