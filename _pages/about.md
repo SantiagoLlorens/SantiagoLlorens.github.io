@@ -22,6 +22,6 @@ Tenis
     <a style= "align-items: center; justify-content: center; margin-right: 60px;">
       <img src="https://santiagollorens.github.io/images/Tenis_Yago_2.jpg" 
            alt="UPV Logo" 
-           style="width: 100%; height: 100%; object-fit: cover; transform: scale(0.8);">
+           style="width: 120%; height: 120%; object-fit: cover; transform: scale(0.8);">
     </a>
   </div>
