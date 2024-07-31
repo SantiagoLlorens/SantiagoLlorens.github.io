@@ -11,24 +11,43 @@ I am Santiago Llorens, a Ph.D. student at [Grup d'Informació i Fenòmens Quànt
 
 ## More than physics
 
-<p style="margin-bottom: 5px;"> 
-I started playing tennis when I was five years old, and it became the sport of my life as I grew up. During my teenage years, I enjoyed competing in tournaments, which brought some great experiences and memories. Although tennis isn't a central focus in my life now, I still enjoy playing whenever I get the chance.
-</p>
 
-<div class="row" style="display: flex; justify-content: center; align-items: center; position: relative; height: 300px; background-image: url('https://santiagollorens.github.io/images/clay.jpg'); background-size: cover; background-position: center;">
-    <a href="#" style="margin-right: 20px;">
+<div class="gradient-border" style="
+  position: relative; 
+  padding: 20px; 
+  background: 
+    linear-gradient(to bottom, rgba(255, 255, 255, 1) 10%, rgba(255, 255, 255, 0) 90%),
+    linear-gradient(to right, rgba(255, 255, 255, 1) 10%, rgba(255, 255, 255, 0) 90%),
+    url('https://santiagollorens.github.io/images/clay.jpg');
+  background-size: cover, cover, cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  overflow: hidden; /* Ensures border-radius applies to the background */
+">
+  <!-- Paragraph Section -->
+  <div class="text-section" style="margin-bottom: 20px; text-align: left;">
+    <p style="margin-bottom: 0;"> 
+      I started playing tennis when I was five years old, and it became the sport of my life as I grew up. During my teenage years, I enjoyed competing in tournaments, which brought some great experiences and memories. Although tennis isn't a central focus in my life now, I still enjoy playing whenever I get the chance.
+    </p>
+  </div>
+
+  <!-- Images Section -->
+  <div class="images-section" style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%; max-width: 900px;">
+    <a href="#" style="display: inline-block;">
       <img src="https://santiagollorens.github.io/images/Tenis_Yago_1.jpg" 
            alt="UAB Logo" 
-           style="height: 300px; object-fit: cover; transform: scale(0.8);">
+           style="height: 300px; object-fit: cover; transform: scale(0.8); border-radius: 5%; border: 0px solid rgba(0, 0, 0, 0.3);">
     </a>
-    <a href="#" style="margin-right: 20px;">
+    <a href="#" style="display: inline-block;">
       <img src="https://santiagollorens.github.io/images/Tenis_Yago_2.jpg" 
            alt="UPV Logo" 
-           style="height: 300px; object-fit: cover; transform: scale(0.8);">
+           style="height: 300px; object-fit: cover; transform: scale(0.8); border-radius: 5%; border: 0px solid rgba(0, 0, 0, 0.3);">
     </a>
-    <a href="#" style="margin-right: 20px;">
+    <a href="#" style="display: inline-block;">
       <img src="https://santiagollorens.github.io/images/Tenis_Yago_4.jpg" 
            alt="UPV Logo" 
-           style="height: 300px; object-fit: cover; transform: scale(0.8);">
+           style="height: 300px; object-fit: cover; transform: scale(0.8); border-radius: 5%; border: 0px solid rgba(0, 0, 0, 0.3);">
     </a>
+  </div>
 </div>
