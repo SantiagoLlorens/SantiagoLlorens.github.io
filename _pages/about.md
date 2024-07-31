@@ -15,18 +15,18 @@ I am Santiago Llorens, a Ph.D. student at [Grup d'Informació i Fenòmens Quànt
 I started playing tennis when I was five years old, and it became the sport of my life as I grew up. During my teenage years, I enjoyed competing in tournaments, which brought some great experiences and memories. Although tennis isn't a central focus in my life now, I still enjoy playing whenever I get the chance.
 </p>
 
-<div class="row" style="display: flex; justify-content: center;">
-    <a style="align-items: center; justify-content: center; margin-right: 20px;">
+<div class="row" style="display: flex; justify-content: center; align-items: center; position: relative; height: 300px; background-image: url('https://santiagollorens.github.io/images/clay.jpg'); background-size: cover; background-position: center;">
+    <a href="#" style="margin-right: 20px;">
       <img src="https://santiagollorens.github.io/images/Tenis_Yago_1.jpg" 
            alt="UAB Logo" 
            style="height: 300px; object-fit: cover; transform: scale(0.8);">
     </a>
-    <a style="align-items: center; justify-content: center; margin-right: 20px;">
+    <a href="#" style="margin-right: 20px;">
       <img src="https://santiagollorens.github.io/images/Tenis_Yago_2.jpg" 
            alt="UPV Logo" 
            style="height: 300px; object-fit: cover; transform: scale(0.8);">
     </a>
-    <a style="align-items: center; justify-content: center; margin-right: 20px;">
+    <a href="#" style="margin-right: 20px;">
       <img src="https://santiagollorens.github.io/images/Tenis_Yago_4.jpg" 
            alt="UPV Logo" 
            style="height: 300px; object-fit: cover; transform: scale(0.8);">
