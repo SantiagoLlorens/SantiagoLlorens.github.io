@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Santiago Llorens, a Ph.D. student at [Grup d'Informació i Fenòmens Quàntics](https://webs.uab.cat/giq/) (Autonomous University of Barcelona) under the supervision of Prof. [Ramon Muñoz Tapia](https://scholar.google.es/citations?user=SGxT9bkAAAAJ&hl=en&oi=ao) and Dr. [Gael Sentís Herrera](https://scholar.google.es/citations?user=ai_4KiEAAAAJ&hl=en). Previously I completed a double major in physics and chemistry at the Autonomous University of Barcelona and a master in quantum science and technology at the Basque Country University, Bilbao, under the supervision of Prof. [Jens Siewert](https://scholar.google.es/citations?hl=en&user=ryYiAcwAAAAJ). 
+I am Santiago Llorens, a Ph.D. student at [Grup d'Informació i Fenòmens Quàntics](https://webs.uab.cat/giq/) (Autonomous University of Barcelona) under the supervision of Prof. [Ramon Muñoz Tapia](https://scholar.google.es/citations?user=SGxT9bkAAAAJ&hl=en&oi=ao) and Dr. [Gael Sentís Herrera](https://scholar.google.es/citations?user=ai_4KiEAAAAJ&hl=en). Previously I completed a double major in physics and chemistry at the Autonomous University of Barcelona and a master in quantum science and technology at the Basque Country University, Bilbao, under the supervision of Prof. [Jens Siewert](https://scholar.google.es/citations?hl=en&user=ryYiAcwAAAAJ).
 
 ## More than physics
 
 
 <div class="gradient-border" style="
   position: relative; 
-  padding: 20px; 
+  padding: 0px; 
   background: 
     linear-gradient(to bottom, rgba(255, 255, 255, 1) 10%, rgba(255, 255, 255, 0) 90%),
     linear-gradient(to right, rgba(255, 255, 255, 1) 10%, rgba(255, 255, 255, 0) 90%),
@@ -33,7 +33,7 @@ I am Santiago Llorens, a Ph.D. student at [Grup d'Informació i Fenòmens Quànt
   </div>
 
   <!-- Images Section -->
-  <div class="images-section" style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%; max-width: 900px;">
+  <div class="images-section" style="display: flex; justify-content: left; align-items: center; gap: 20px; width: 100%; max-width: 900px;">
     <a href="#" style="display: inline-block;">
       <img src="https://santiagollorens.github.io/images/Tenis_Yago_1.jpg" 
            alt="UAB Logo" 
