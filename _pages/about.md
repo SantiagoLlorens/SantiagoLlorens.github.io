@@ -26,4 +26,9 @@ I started playing tennis when I was five years old, and it became the sport of m
            alt="UPV Logo" 
            style="height: 300px; object-fit: cover; transform: scale(0.8);">
     </a>
+    <a style="align-items: center; justify-content: center; margin-right: 20px;">
+      <img src="https://santiagollorens.github.io/images/Tenis_Yago_3.jpg" 
+           alt="UPV Logo" 
+           style="height: 300px; object-fit: cover; transform: scale(0.8);">
+    </a>
 </div>
