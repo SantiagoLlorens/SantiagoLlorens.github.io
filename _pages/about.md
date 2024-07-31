@@ -12,7 +12,7 @@ I am Santiago Llorens, a Ph.D. student at [Grup d'Informació i Fenòmens Quànt
 ## More than physics
 
 <p style="margin-bottom: 10px;"> 
-I started playing tennis when I was five years old, and it became the sport of my life as I grew up. During my teenage years, I enjoyed competing in various tournaments, which brought some great experiences and memories. Although tennis isn't a central focus in my life now, I still enjoy playing whenever I get the chance.
+I started playing tennis when I was five years old, and it became the sport of my life as I grew up. During my teenage years, I enjoyed competing in tournaments, which brought some great experiences and memories. Although tennis isn't a central focus in my life now, I still enjoy playing whenever I get the chance.
 </p>
 
 <div class="row" style="display: flex; justify-content: center;">
