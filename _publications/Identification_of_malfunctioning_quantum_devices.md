@@ -3,7 +3,7 @@ title: "Identification of malfunctioning quantum devices"
 collection: publications
 permalink: /publication/Identification_of_malfunctioning_quantum_devices
 excerpt: ''
-date: 2024-05-23
+date: 2024-09-23
 venue: 'Physical Review Research'
 slidesurl: #'https://arxiv.org/abs/2312.13020'
 paperurl: 'https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033329'
