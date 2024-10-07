@@ -28,7 +28,7 @@ redirect_from:
            style="width: 100%; height: 100%; object-fit: contain; transform: scale(0.8);">
     </a>
     <a href="https://webs.uab.cat/giq/" target="_blank" style="display: flex; width: 210px; height: 100px; border: 2px solid rgba(0, 0, 0, 0.5); border-radius: 50%; overflow: hidden; align-items: center; justify-content: center;">
-      <img src="https://santiagollorens.github.io/images/LogoGIQ_NoText_Positiu.jpg" 
+      <img src="https://santiagollorens.github.io/images/LogoGIQ_Text_Positiu.jpg" 
            alt="GIQ Logo" 
            style="width: 100%; height: 100%; object-fit: contain; transform: scale(1);">
     </a>
