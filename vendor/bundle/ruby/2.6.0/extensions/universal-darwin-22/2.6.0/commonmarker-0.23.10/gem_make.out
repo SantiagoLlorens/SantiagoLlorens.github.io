@@ -1,5 +1,5 @@
 current directory: /Users/Yago/Documents/GitHub/SantiagoLlorens.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.23.10/ext/commonmarker
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20240731-41552-5hbl5x.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20241007-39905-q6qd3b.rb extconf.rb
 creating Makefile
 
 current directory: /Users/Yago/Documents/GitHub/SantiagoLlorens.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.23.10/ext/commonmarker
