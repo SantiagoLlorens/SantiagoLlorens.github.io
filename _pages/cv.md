@@ -17,23 +17,24 @@ redirect_from:
 
 <div class="text-center" style="text-align: center;">
   <div class="row" style="display: flex; justify-content: center;">
-    <a href="https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html" target="_blank" style="display: flex; width: 210px; height: 100px; border: 2px solid rgba(0, 0, 0, 0.5); border-radius: 50%; overflow: hidden; align-items: center; justify-content: center; margin-right: 60px;">
+    <a href="https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html" target="_blank" style="display: flex; width: 210px; height: 100px; border: 2px solid rgba(0, 0, 0, 0.5); border-radius: 50%; overflow: hidden; align-items: center; justify-content: center; margin-right: 40px;">
       <img src="https://santiagollorens.github.io/images/UAB_logo.jpg" 
            alt="UAB Logo" 
-           style="width: 120%; height: 120%; object-fit: cover; transform: scale(0.8);">
+           style="width: 100%; height: 100%; object-fit: contain; transform: scale(1);">
     </a>
-    <a href="https://www.ehu.eus/en/en-home" target="_blank" style="display: flex; width: 210px; height: 100px; border: 2px solid rgba(0, 0, 0, 0.5); border-radius: 50%; overflow: hidden; align-items: center; justify-content: center;">
+    <a href="https://www.ehu.eus/en/en-home" target="_blank" style="display: flex; width: 210px; height: 100px; border: 2px solid rgba(0, 0, 0, 0.5); border-radius: 50%; overflow: hidden; align-items: center; justify-content: center; margin-right: 40px;">
       <img src="https://santiagollorens.github.io/images/UPV_logo.jpg" 
            alt="UPV Logo" 
-           style="width: 100%; height: 100%; object-fit: cover; transform: scale(0.8);">
+           style="width: 100%; height: 100%; object-fit: contain; transform: scale(0.8);">
     </a>
     <a href="https://webs.uab.cat/giq/" target="_blank" style="display: flex; width: 210px; height: 100px; border: 2px solid rgba(0, 0, 0, 0.5); border-radius: 50%; overflow: hidden; align-items: center; justify-content: center;">
       <img src="https://santiagollorens.github.io/images/LogoGIQ_NoText_Positiu.jpg" 
            alt="GIQ Logo" 
-           style="width: 100%; height: 100%; object-fit: cover; transform: scale(0.8);">
+           style="width: 100%; height: 100%; object-fit: contain; transform: scale(1);">
     </a>
   </div>
 </div>
+
 ## Research experience
   <ul>{% for post in site.experience reversed %}
     {% include archive-single-experience-cv.html %}
