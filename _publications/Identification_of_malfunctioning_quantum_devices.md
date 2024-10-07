@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Identification_of_malfunctioning_quantum_devices
 excerpt: ''
 date: 2024-09-23
-venue: 'Physical Review Research'
+venue: 'PRR'
 slidesurl: #'https://arxiv.org/abs/2312.13020'
 paperurl: 'https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033329'
 citation: 'Skotiniotis, M., Llorens, S., Hotz, R., Calsamiglia, J., & Muñoz-Tapia, R. (2024). Identification of malfunctioning quantum devices. Physical Review Research, 6(3), 033329. ' 
