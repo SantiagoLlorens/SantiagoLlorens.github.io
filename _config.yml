@@ -26,7 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student at the Quantum Information Group @ Autonomous University of Barcelona"
   location         : "Barcelona"
-  employer         : "GIQ|UAB"
+  employer         :
+    name: "GIQ|UAB"
+    url: "https://webs.uab.cat/giq/"
   uri              : # URL
   email            : "santiago.llorens@uab.cat" 
 
@@ -212,7 +214,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  experience:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
