@@ -1,5 +1,5 @@
 ---
-title: "Bachelor's thesis student (Chemistry)"
+title: "Bachelor's thesis student (Chemistry: Quantum Chemistry)"
 collection: experience
 permalink: /experience/Seville_BSc
 date: 2019-09-01
