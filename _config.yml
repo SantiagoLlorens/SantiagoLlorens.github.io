@@ -24,13 +24,13 @@ author:
   avatar           : "ceqip2024foto16.jpg"
   name             : "Santiago Llorens"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student at the Quantum Information Group @ Autonomous University of Barcelona"
-  location         : "Barcelona"
+  bio              : "Postdoctoral researcher @ University of Gdańsk"
+  location         : "Gdańsk, Poland"
   employer         :
-    name: "GIQ|UAB"
-    url: "https://webs.uab.cat/giq/"
+    name: "UG"
+    url: "https://old.ug.edu.pl/pracownik/120137/santiago_llorens"
   uri              : # URL
-  email            : "santiago.llorens@uab.cat" 
+  email            : "santiago.llorens@ug.edu.pl" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

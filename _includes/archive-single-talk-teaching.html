@@ -12,8 +12,9 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+<!-- AQUÍ ESTÁ EL CONTROLADOR: Cambia este 5px por el número que quieras -->
+<div class="{{ include.type | default: "list" }}__item" style="margin-bottom: 15px !important;">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="margin-bottom: 0px !important;">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -26,7 +27,7 @@
       </div>
     {% endif %}
 
-    <h3 class="archive__item-title" itemprop="headline">
+    <h3 class="archive__item-title" itemprop="headline" style="margin-top: 0px !important; margin-bottom: 0px !important;">
       {% if post.link %}
       <a href="{{ post.link }}" style="display: inline-block; margin: 0;" >{{ title }}</a>
       <p class="page__meta" style="display: inline-block; margin: 0;">
@@ -49,6 +50,6 @@
       {% endif %}
       {% endif %}
     </h3>
-    {% if post.venue and post.location and post.type %}<p class="archive__item-excerpt" itemprop="description">{{ post.type }}, {{ post.venue }}, {{ post.location }}</p> {% endif %}  
+    {% if post.venue and post.location and post.type %}<p class="archive__item-excerpt" itemprop="description" style="margin-top: 0px !important; margin-bottom: 0px !important;">{{ post.type }}, {{ post.venue }}, {{ post.location }}</p> {% endif %}  
   </article>
 </div>

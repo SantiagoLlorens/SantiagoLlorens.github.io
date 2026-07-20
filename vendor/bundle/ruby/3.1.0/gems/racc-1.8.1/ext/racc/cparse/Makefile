@@ -13,12 +13,12 @@ NULLCMD = :
 #### Start of system configuration section. ####
 
 srcdir = .
-topdir = /Users/Yago/.rbenv/versions/3.1.0/include/ruby-3.1.0
+topdir = /opt/homebrew/Cellar/ruby@3.1/3.1.7_1/include/ruby-3.1.0
 hdrdir = $(topdir)
-arch_hdrdir = /Users/Yago/.rbenv/versions/3.1.0/include/ruby-3.1.0/arm64-darwin22
+arch_hdrdir = /opt/homebrew/Cellar/ruby@3.1/3.1.7_1/include/ruby-3.1.0/arm64-darwin24
 PATH_SEPARATOR = :
 VPATH = $(srcdir):$(arch_hdrdir)/ruby:$(hdrdir)/ruby
-prefix = $(DESTDIR)/Users/Yago/.rbenv/versions/3.1.0
+prefix = $(DESTDIR)/opt/homebrew/Cellar/ruby@3.1/3.1.7_1
 rubysitearchprefix = $(rubylibprefix)/$(sitearch)
 rubyarchprefix = $(rubylibprefix)/$(arch)
 rubylibprefix = $(libdir)/$(RUBY_BASE_NAME)
@@ -31,10 +31,10 @@ sitehdrdir = $(rubyhdrdir)/site_ruby
 rubyhdrdir = $(includedir)/$(RUBY_VERSION_NAME)
 vendorarchdir = $(vendorlibdir)/$(sitearch)
 vendorlibdir = $(vendordir)/$(ruby_version)
-vendordir = $(rubylibprefix)/vendor_ruby
-sitearchdir = $(DESTDIR)./.gem.20240731-84358-ycv71f
-sitelibdir = $(DESTDIR)./.gem.20240731-84358-ycv71f
-sitedir = $(rubylibprefix)/site_ruby
+vendordir = $(DESTDIR)/opt/homebrew/lib/ruby/vendor_ruby
+sitearchdir = $(sitelibdir)/$(sitearch)
+sitelibdir = $(sitedir)/$(ruby_version)
+sitedir = $(DESTDIR)/opt/homebrew/lib/ruby/site_ruby
 rubyarchdir = $(rubylibdir)/$(arch)
 rubylibdir = $(rubylibprefix)/$(ruby_version)
 sitearchincludedir = $(includedir)/$(sitearch)
@@ -52,7 +52,7 @@ htmldir = $(docdir)
 infodir = $(datarootdir)/info
 docdir = $(datarootdir)/doc/$(PACKAGE)
 oldincludedir = $(DESTDIR)/usr/include
-includedir = $(SDKROOT)$(prefix)/include
+includedir = $(prefix)/include
 runstatedir = $(localstatedir)/run
 localstatedir = $(prefix)/var
 sharedstatedir = $(prefix)/com
@@ -88,15 +88,15 @@ CCDLFLAGS = -fno-common
 CFLAGS   = $(CCDLFLAGS) $(cflags)  -fno-common -pipe $(ARCH_FLAG)
 INCFLAGS = -I. -I$(arch_hdrdir) -I$(hdrdir)/ruby/backward -I$(hdrdir) -I$(srcdir)
 DEFS     = 
-CPPFLAGS = -DRACC_INFO_VERSION=1.8.1 -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT $(DEFS) $(cppflags)
+CPPFLAGS = -DRACC_INFO_VERSION=1.8.1 -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -I/opt/homebrew/opt/readline/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT $(DEFS) $(cppflags)
 CXXFLAGS = $(CCDLFLAGS) -fdeclspec $(ARCH_FLAG)
-ldflags  = -L. -fstack-protector-strong
-dldflags = -Wl,-undefined,dynamic_lookup 
+ldflags  = -L. -fstack-protector-strong -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/lib
+dldflags = -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L/opt/homebrew/opt/readline/lib -Wl,-undefined,dynamic_lookup $(LIBRUBYARG_SHARED)
 ARCH_FLAG = 
 DLDFLAGS = $(ldflags) $(dldflags) $(ARCH_FLAG)
 LDSHARED = $(CC) -dynamic -bundle
 LDSHAREDXX = $(CXX) -dynamic -bundle
-AR = ar
+AR = /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar
 EXEEXT = 
 
 RUBY_INSTALL_NAME = $(RUBY_BASE_NAME)
@@ -106,11 +106,12 @@ RUBY_VERSION_NAME = $(RUBY_BASE_NAME)-$(ruby_version)
 RUBYW_BASE_NAME = rubyw
 RUBY_BASE_NAME = ruby
 
-arch = arm64-darwin22
+arch = arm64-darwin24
 sitearch = $(arch)
 ruby_version = 3.1.0
 ruby = $(bindir)/$(RUBY_BASE_NAME)
 RUBY = $(ruby)
+BUILTRUBY = $(bindir)/$(RUBY_BASE_NAME)
 ruby_headers = $(hdrdir)/ruby.h $(hdrdir)/ruby/backward.h $(hdrdir)/ruby/ruby.h $(hdrdir)/ruby/defines.h $(hdrdir)/ruby/missing.h $(hdrdir)/ruby/intern.h $(hdrdir)/ruby/st.h $(hdrdir)/ruby/subst.h $(arch_hdrdir)/ruby/config.h
 
 RM = rm -f
@@ -126,8 +127,8 @@ TOUCH = exit >
 #### End of system configuration section. ####
 
 preload = 
-libpath = . $(libdir)
-LIBPATH =  -L. -L$(libdir)
+libpath = . $(libdir) /opt/homebrew/opt/libyaml/lib /opt/homebrew/opt/openssl@3/lib /opt/homebrew/opt/readline/lib
+LIBPATH =  -L. -L$(libdir) -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L/opt/homebrew/opt/readline/lib
 DEFFILE = 
 
 CLEANFILES = mkmf.log

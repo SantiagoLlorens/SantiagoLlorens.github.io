@@ -3,7 +3,7 @@
 
 Gem::Specification.new do |s|
   s.name = "gemoji".freeze
-  s.version = "4.1.0"
+  s.version = "4.1.0".freeze
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0".freeze) if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib".freeze]
@@ -14,8 +14,8 @@ Gem::Specification.new do |s|
   s.homepage = "https://github.com/github/gemoji".freeze
   s.licenses = ["MIT".freeze]
   s.required_ruby_version = Gem::Requirement.new("> 1.9".freeze)
-  s.rubygems_version = "3.3.3".freeze
+  s.rubygems_version = "3.3.7".freeze
   s.summary = "Unicode emoji library".freeze
 
-  s.installed_by_version = "3.3.3" if s.respond_to? :installed_by_version
+  s.installed_by_version = "3.5.11".freeze if s.respond_to? :installed_by_version
 end

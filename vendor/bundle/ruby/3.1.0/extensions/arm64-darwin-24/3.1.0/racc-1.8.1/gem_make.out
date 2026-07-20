@@ -1,0 +1,19 @@
+current directory: /Users/yagollorens/SantiagoLlorens.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby@3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/yagollorens/SantiagoLlorens.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260720-79223-iwm991 sitelibdir\=./.gem.20260720-79223-iwm991 clean
+
+current directory: /Users/yagollorens/SantiagoLlorens.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260720-79223-iwm991 sitelibdir\=./.gem.20260720-79223-iwm991
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/yagollorens/SantiagoLlorens.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260720-79223-iwm991 sitelibdir\=./.gem.20260720-79223-iwm991 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260720-79223-iwm991/racc
+
+current directory: /Users/yagollorens/SantiagoLlorens.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260720-79223-iwm991 sitelibdir\=./.gem.20260720-79223-iwm991 clean
